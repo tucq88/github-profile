@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/tucq88/tucq88"/> 
+  <img src="https://badges.pufler.dev/visits/tucq88/github-profile"/> 
   <img src="https://badges.pufler.dev/repos/tucq88"/>
   <img src="https://badges.pufler.dev/commits/monthly/tucq88" />
 </p>
