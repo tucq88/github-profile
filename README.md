@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-I am a “mind-reading” builder/leader with entrepreneur mindset, a go-giving leader plus a life-long learner. I have great passion for Agile software development and firm belief in value from the combination of working hard and working smart.
-I always have interests in building something, and Github is where I keep all those treasury.
+I am a “mind-reading” builder/leader with entrepreneur mindset, a go-giving leader plus a life-long learner. I have great passion for Agile software development and firm belief in value from the combination of working hard and working smart.<br>
+I always have interests in building something, and Github is where I keep all my treasury of code.
 </p>
 
 <h2 align="center">Reach me out on</h2>
